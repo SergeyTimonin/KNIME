@@ -7,6 +7,8 @@ KNIME позволяет как начинающим, так и опытным �
 
 [Полезный курс на Stepik по основам работы с Knime](https://stepik.org/course/114684/syllabus)
 
-Интерфес KNIME:
+
+Интерфейс KNIME:
+
 ![](https://xperra.com/_default_upload_bucket/img1_6.png)
 
